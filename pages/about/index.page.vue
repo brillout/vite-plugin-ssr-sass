@@ -3,9 +3,7 @@
   <p>A colored page.</p>
 </template>
 
-<style>
-h1,
-p {
-  color: green;
-}
+<style lang="sass">
+h1, p
+  color: orange
 </style>
